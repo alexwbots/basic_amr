@@ -5,7 +5,7 @@
  ```
  cd
  cd .gazebo/models
- cp -r /home/user/catkin_ws/src/labyrinth .
+ cp -r /home/user/catkin_ws/src/basic_amr/labyrinth .
  ```
 
  Then, you can simulate the robot in gazebo inside a labyrinth with the following command:
