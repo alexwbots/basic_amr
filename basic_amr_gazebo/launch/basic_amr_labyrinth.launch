@@ -14,7 +14,7 @@
   <param name="robot_description" command="$(find xacro)/xacro --inorder '$(find basic_amr_description)/urdf/basic_amr.xacro'" />
 
   <!-- Spawn the robot model -->
-  <node name="movil" pkg="gazebo_ros" type="spawn_model" output="screen" args="-urdf -param robot_description -model basic_amr -z 0.02" />
+  <node name="movil" pkg="gazebo_ros" type="spawn_model" output="screen" args="-urdf -param robot_description -model basic_amr -x 0.5 -z 0.02" />
 
   <!-- Visualization of the robot using Rviz -->
   <param name="use_gui" value="true"/>
