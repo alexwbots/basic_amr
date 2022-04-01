@@ -22,4 +22,4 @@
  roslaunch basic_amr_gazebo basic_amr_labyrinth.launch
  ```
 
- <img src="https://github.com/ALxander19/basic_amr/blob/main/basic_amr_inside_labyrinth.png" width="800" height="400">
+ <img src="https://github.com/ALxander19/basic_amr/blob/melodic-devel/basic_amr_inside_labyrinth.png" width="800" height="400">
